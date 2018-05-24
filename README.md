@@ -1,4 +1,6 @@
 # Bootstrap 4, Font Awesome 4, Webpack 4 Starter.
+[![Build Status](https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter.svg?branch=master)](https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter)
+
 
 Created to make your life super easy.
 
