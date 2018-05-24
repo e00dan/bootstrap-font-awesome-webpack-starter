@@ -1,5 +1,5 @@
 # Bootstrap 4, Font Awesome 4, Webpack 4 Starter.
-[![Build Status](https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter.svg?branch=master)](https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter)
+[![Build Status](https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter.svg?branch=master)](https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter) [![Greenkeeper badge](https://badges.greenkeeper.io/Kuzirashi/bootstrap-font-awesome-webpack-starter.svg)](https://greenkeeper.io/)
 
 
 Created to make your life super easy.
