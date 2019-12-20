@@ -42,7 +42,7 @@
     "husky": "^0.14.3",
     "image-webpack-loader": "^4.2.0",
     "lint-staged": "^7.1.2",
-    "mini-css-extract-plugin": "^0.4.0",
+    "mini-css-extract-plugin": "^0.9.0",
     "node-sass": "^4.9.0",
     "optimize-css-assets-webpack-plugin": "^5.0.0",
     "postcss-loader": "^2.1.5",
