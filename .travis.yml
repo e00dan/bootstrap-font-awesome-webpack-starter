@@ -9,3 +9,4 @@ install: yarn
 script:
   - yarn lint
   - yarn build
+  - yarn codechecks
