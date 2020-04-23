@@ -1,13 +1,11 @@
-dist: trusty
+dist: bionic
 sudo: required
-group: beta
 language: node_js
 node_js:
-  - "10"
+  - "14"
 cache:
-  directories:
-    - node_modules
-install: npm install
+  yarn: true
+install: yarn
 script:
-  - npm run lint
-  - npm run build
+  - yarn lint
+  - yarn build

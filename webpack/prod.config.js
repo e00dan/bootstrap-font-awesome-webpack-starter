@@ -18,7 +18,6 @@ module.exports = merge(baseConfig, {
             keep_fnames: true
           },
           compress: {
-            warnings: false,
             pure_getters: true,
             unsafe_comps: true,
             conditionals: true,
@@ -39,7 +38,7 @@ module.exports = merge(baseConfig, {
       new webpack.optimize.AggressiveMergingPlugin(),
       new webpack.optimize.OccurrenceOrderPlugin(),
       new CompressionPlugin({
-        asset: '[path].gz[query]',
+        filename: '[path].gz[query]',
         algorithm: 'gzip',
         test: /\.js$|\.css$|\.html$/,
         threshold: 10240,

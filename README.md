@@ -5,7 +5,7 @@
 Created to make your life super easy.
 
 Using battle-tested solutions. Features:
-- Working Bootstrap JS and  CSS inclusion
+- Working Bootstrap JS and CSS inclusion
 - Working Font Awesome icons
 - Working Hot Module Reloading
 - Prettier to automatically format JavaScript
@@ -20,7 +20,8 @@ git clone git@github.com:Kuzirashi/bootstrap-font-awesome-webpack-starter.git
 
 cd bootstrap-font-awesome-webpack-starter
 
-npm run dev
+yarn
+yarn dev
 ```
 
 ## Author

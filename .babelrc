@@ -4,8 +4,13 @@
     "env"
   ],
   "plugins": [
-    "transform-runtime",
-    "transform-decorators-legacy",
-    "transform-class-properties"
+    "@babel/plugin-transform-runtime",
+    [
+      "@babel/plugin-proposal-decorators",
+      {
+        "decoratorsBeforeExport":true
+      }
+    ],
+    "@babel/plugin-proposal-class-properties"
   ]
 }
