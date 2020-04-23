@@ -1,5 +1,9 @@
 # Bootstrap 4, Font Awesome 4, Webpack 4 Starter.
-[![Build Status](https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter.svg?branch=master)](https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter)
+<p align="center">
+    <a href="https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter"><img alt="Build Status" src="https://travis-ci.com/Kuzirashi/bootstrap-font-awesome-webpack-starter.svg?branch=master"></a>
+    <a href="/package.json"><img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
+    <a href="https://codechecks.io"><img src="https://raw.githubusercontent.com/codechecks/docs/master/images/badges/badge-default.svg?sanitize=true" alt="codechecks.io"></a>
+</p>
 
 
 Created to make your life super easy.
